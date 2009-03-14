@@ -516,6 +516,71 @@ public class TesteLocomocaoMapasIguaisComObstaculos {
 		assertEquals(18 , resultado);
 	}
 	
+	@Test
+	public void andarMapasComUmCaminhoLongoInvertido(){
+		String mapa = 	". . . . .\n"+
+						". . # . .\n"+
+						". # . # .\n"+
+						". . R # .\n"+
+						"# # # . .\n"+
+						"F . . . .\n";
+		
+		Explorador e = new Explorador();
+		e.definirMapas(mapa, mapa);
+		
+		int resultado = e.explorarMapas();
+		assertEquals(18 , resultado);
+	}
+	
+	@Test
+	public void andarMapasComUmCaminhoLongoAlterado(){
+		String mapa = 	". . . . .\n"+
+						". . # . .\n"+
+						". # . # .\n"+
+						". . F # .\n"+
+						"# # # . .\n"+
+						"R . . . .\n";
+		
+		Explorador e = new Explorador();
+		e.definirMapas(mapa, mapa);
+		
+		int resultado = e.explorarMapas();
+		assertEquals(18 , resultado);
+	}
+	
+	@Test
+	public void andarMapasComVariosCaminhos(){
+		String mapa = 	". . . . .\n"+
+						". . # . .\n"+
+						". # . # .\n"+
+						". # F . .\n"+
+						". # # # #\n"+
+						"R . . . .\n";
+		
+		Explorador e = new Explorador();
+		e.definirMapas(mapa, mapa);
+		
+		int resultado = e.explorarMapas();
+		assertEquals(14 , resultado);
+	}
+	
+	@Test
+	public void andarMapasSemCaminhosPOssiveis(){
+		String mapa = 	". . . . .\n"+
+						". . # . .\n"+
+						". # . # .\n"+
+						". # F # .\n"+
+						". # # # #\n"+
+						"R . . . .\n";
+		
+		Explorador e = new Explorador();
+		e.definirMapas(mapa, mapa);
+		
+		int resultado = e.explorarMapas();
+		assertEquals(-1 , resultado);
+	}
+	
+	
 }
 
 

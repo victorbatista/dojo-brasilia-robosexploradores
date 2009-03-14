@@ -144,14 +144,12 @@ public class Explorador {
 					if(podeAndarEsquerda(arrayMapa1)){
 						arrayMapa1 = andar(andarEsquerda(arrayMapa1), contador);
 
-					}else {
-						if(podeSubir(arrayMapa1)){
-							arrayMapa1 = andar(subir(arrayMapa1), contador);
-						}else{
-							if(podeDescer(arrayMapa1)){
-								arrayMapa1 = andar(descer(arrayMapa1), contador);
-							}	
-						}
+					}else if(podeSubir(arrayMapa1)){
+						arrayMapa1 = andar(subir(arrayMapa1), contador);
+					}else if(podeDescer(arrayMapa1)){
+						arrayMapa1 = andar(descer(arrayMapa1), contador);
+					}else if(podeAndarDireita(arrayMapa1)) {
+						arrayMapa1 = andar(andarDireita(arrayMapa1), contador);
 					}
 				} else {//se o robo estiver a esquerda do final
 
@@ -246,8 +244,11 @@ public class Explorador {
 				//caso nao haja caminhos possiveis
 				return -1;
 			}
-
-			return resultFinal.valor;
+			
+			if(resultFinal.valor>50)
+				return -1;
+			else
+				return resultFinal.valor;
 
 		}
 		return distancia;
