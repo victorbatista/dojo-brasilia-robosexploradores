@@ -213,7 +213,7 @@ public class TesteLocomocaoMapasIguaisComObstaculos {
 	@Test
 	public void andarMapa_RXF_ooo(){
 		String mapa = 	"R # F \n"+
-		". . . \n" ;
+					    ". . . \n" ;
 
 		Explorador e = new Explorador();
 		e.definirMapas(mapa, mapa);

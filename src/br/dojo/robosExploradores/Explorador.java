@@ -167,7 +167,11 @@ public class Explorador {
 
 					}else if (podeDescer(arrayMapa1)){
 						arrayMapa1 = andar(descer(arrayMapa1), contador);
-					} else {
+						
+					}else if (podeAndarEsquerda(arrayMapa1)){
+						arrayMapa1 = andar(andarEsquerda(arrayMapa1), contador);
+						
+					}else {
 						arrayMapa1 = null;
 					}
 				}
