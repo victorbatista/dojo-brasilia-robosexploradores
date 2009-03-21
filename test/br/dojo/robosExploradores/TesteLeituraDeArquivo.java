@@ -166,7 +166,28 @@ public class TesteLeituraDeArquivo {
 		assertEquals(mapa, explorador.getMapa2());
 		
 		assertTrue(explorador.next() == false);
+	}
+	
+	@Test
+	public void testeLeituraVertical() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste5"));
+		assertEquals(1, explorador.getNumeroInstancias());
+
+		explorador.next();
 		
+		String mapa = ".\n"+
+					  ".\n"+
+					  ".\n";
+
+		assertEquals(3, explorador.getLinha());
+		assertEquals(1, explorador.getColuna());
+
+		assertEquals(mapa, explorador.getMapa1());
+		assertEquals(mapa, explorador.getMapa2());
+		
+		assertTrue(explorador.next() == false);
 	}
 }
 

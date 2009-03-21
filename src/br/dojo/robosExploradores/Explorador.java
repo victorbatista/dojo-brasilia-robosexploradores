@@ -336,6 +336,9 @@ public class Explorador {
 			for (int i = 0; i < linha; i++) {
 				mapa2 += instancias.get(index++)+"\n";
 			}
+			
+			definirMapas(mapa1, mapa2);
+			
 			return true;
 		}
 		return false;
