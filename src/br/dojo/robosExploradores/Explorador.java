@@ -3,6 +3,7 @@ package br.dojo.robosExploradores;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -321,7 +322,7 @@ public class Explorador {
 		return numeroInstancias;
 	}
 
-	public boolean next() {
+	public boolean next() throws IOException {
 		if (index < instancias.size()){
 			String[] partes = instancias.get(index++).split(" ");
 
@@ -338,6 +339,11 @@ public class Explorador {
 			}
 			
 			definirMapas(mapa1, mapa2);
+			FileWriter fw = new FileWriter("resutadoExploracao");
+			int resultado = explorarMapas();
+			fw.write(String.valueOf(resultado));
+			fw.close();
+			
 			
 			return true;
 		}
