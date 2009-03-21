@@ -1,0 +1,117 @@
+package br.dojo.robosExploradores;
+
+import java.io.IOException;
+
+import static org.junit.Assert.*;
+import org.junit.Test;
+
+public class TesteLeituraDeArquivo {
+
+	@Test
+	public void testeLeituraNumeroInstancias() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste1"));
+		assertEquals(1, explorador.getNumeroInstancias());
+	}
+	
+	@Test
+	public void testeLeituraNumeroInstancias2() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste2"));
+		assertEquals(2, explorador.getNumeroInstancias());
+	}
+	
+	@Test
+	public void testeLeituraTamanhoMapa() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste1"));
+		assertEquals(1, explorador.getNumeroInstancias());
+		assertEquals(1, explorador.getLinha());
+		assertEquals(1, explorador.getColuna());
+	}
+	
+	@Test
+	public void testeLeituraTamanhoMapa2() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste2"));
+		assertEquals(2, explorador.getNumeroInstancias());
+		assertEquals(2, explorador.getLinha());
+		assertEquals(2, explorador.getColuna());
+	}
+	
+	@Test
+	public void testeLeituraMapa() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste1"));
+		assertEquals(1, explorador.getNumeroInstancias());
+		assertEquals(1, explorador.getLinha());
+		assertEquals(1, explorador.getColuna());
+		
+		String mapa = ".\n";
+		assertEquals(mapa, explorador.getMapa1());
+		assertEquals(mapa, explorador.getMapa2());
+	}
+	
+	@Test
+	public void testeLeituraMapaComDuasLinhas() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste2"));
+		assertEquals(2, explorador.getNumeroInstancias());
+		assertEquals(2, explorador.getLinha());
+		assertEquals(2, explorador.getColuna());
+		
+		String mapa = "..\n"+
+					  "..\n";
+		assertEquals(mapa, explorador.getMapa1());
+		assertEquals(mapa, explorador.getMapa2());
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

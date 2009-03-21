@@ -1,5 +1,10 @@
 package br.dojo.robosExploradores;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
 public class Explorador {
 	private int linha;
 	private int coluna;
@@ -7,6 +12,8 @@ public class Explorador {
 	private String mapa2;
 	private char[][] arrayMapa1;
 	private char[][] arrayMapa2;
+	
+	private int numeroInstancias;
 
 	private Contador resultFinal = new Contador(51);
 	
@@ -289,6 +296,32 @@ public class Explorador {
 			}									
 		} 
 		return retorno;
+	}
+	
+	public boolean lerArquivo(String arquivo) throws IOException {
+		FileReader fr = new FileReader(arquivo);
+		BufferedReader br = new BufferedReader(fr);
+		
+		numeroInstancias = Integer.parseInt(br.readLine());
+		
+		String[] partes = br.readLine().split(" ");
+		linha = Integer.parseInt(partes[0]);
+		coluna = Integer.parseInt(partes[1]);
+		mapa1="";
+		mapa2="";
+		
+		for (int i = 0; i < linha; i++) {
+			mapa1 += br.readLine()+"\n";
+		}
+		for (int i = 0; i < linha; i++) {
+			mapa2 += br.readLine()+"\n";
+		}
+		
+		return true;
+	}
+	
+	public int getNumeroInstancias() {
+		return numeroInstancias;
 	}
 }
 
