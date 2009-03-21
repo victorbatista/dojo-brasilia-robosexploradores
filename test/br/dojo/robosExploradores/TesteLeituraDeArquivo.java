@@ -29,6 +29,7 @@ public class TesteLeituraDeArquivo {
 				
 		assertTrue(explorador.lerArquivo("mapaTeste1"));
 		assertEquals(1, explorador.getNumeroInstancias());
+		explorador.next();
 		assertEquals(1, explorador.getLinha());
 		assertEquals(1, explorador.getColuna());
 	}
@@ -39,6 +40,7 @@ public class TesteLeituraDeArquivo {
 				
 		assertTrue(explorador.lerArquivo("mapaTeste2"));
 		assertEquals(2, explorador.getNumeroInstancias());
+		explorador.next();
 		assertEquals(2, explorador.getLinha());
 		assertEquals(2, explorador.getColuna());
 	}
@@ -49,6 +51,7 @@ public class TesteLeituraDeArquivo {
 				
 		assertTrue(explorador.lerArquivo("mapaTeste1"));
 		assertEquals(1, explorador.getNumeroInstancias());
+		explorador.next();
 		assertEquals(1, explorador.getLinha());
 		assertEquals(1, explorador.getColuna());
 		
@@ -63,6 +66,7 @@ public class TesteLeituraDeArquivo {
 				
 		assertTrue(explorador.lerArquivo("mapaTeste2"));
 		assertEquals(2, explorador.getNumeroInstancias());
+		explorador.next();
 		assertEquals(2, explorador.getLinha());
 		assertEquals(2, explorador.getColuna());
 		
@@ -70,6 +74,37 @@ public class TesteLeituraDeArquivo {
 					  "..\n";
 		assertEquals(mapa, explorador.getMapa1());
 		assertEquals(mapa, explorador.getMapa2());
+	}
+	
+	@Test
+	public void testeLeituraMapaComDuasInstancias() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste3"));
+		assertEquals(2, explorador.getNumeroInstancias());
+
+		explorador.next();
+		
+		String mapa = ".\n";
+
+		assertEquals(1, explorador.getLinha());
+		assertEquals(1, explorador.getColuna());
+
+		assertEquals(mapa, explorador.getMapa1());
+		assertEquals(mapa, explorador.getMapa2());
+		
+		explorador.next();
+		mapa = "..\n"+
+			   "..\n";
+			   
+		
+		assertEquals(2, explorador.getLinha());
+		assertEquals(2, explorador.getColuna());
+
+		assertEquals(mapa, explorador.getMapa1());
+		assertEquals(mapa, explorador.getMapa2());
+
+
 	}
 }
 
