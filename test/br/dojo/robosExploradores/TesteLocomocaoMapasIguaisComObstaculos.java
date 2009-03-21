@@ -570,7 +570,7 @@ public class TesteLocomocaoMapasIguaisComObstaculos {
 						". . # . .\n"+
 						". # . # .\n"+
 						". # F # .\n"+
-						". # # # #\n"+
+						". # # # .\n"+
 						"R . . . .\n";
 		
 		Explorador e = new Explorador();
@@ -578,6 +578,20 @@ public class TesteLocomocaoMapasIguaisComObstaculos {
 		
 		int resultado = e.explorarMapas();
 		assertEquals(-1 , resultado);
+	}
+	
+	@Test
+	public void andarMapasComBuracos(){
+		String mapa = 	". B F B\n"+
+						". . . #\n"+
+						". # B B\n"+
+						". . . R\n";
+		
+		Explorador e = new Explorador();
+		e.definirMapas(mapa, mapa);
+		
+		int resultado = e.explorarMapas();
+		assertEquals(8 , resultado);
 	}
 	
 	
