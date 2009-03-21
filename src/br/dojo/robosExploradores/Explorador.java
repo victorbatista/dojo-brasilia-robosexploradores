@@ -321,22 +321,24 @@ public class Explorador {
 		return numeroInstancias;
 	}
 
-	public void next() {
+	public boolean next() {
+		if (index < instancias.size()){
+			String[] partes = instancias.get(index++).split(" ");
 
-		String[] partes = instancias.get(index++).split(" ");
-
-		linha = Integer.parseInt(partes[0]);
-		coluna = Integer.parseInt(partes[1]);
-		mapa1="";
-		mapa2="";
-		for (int i = 0; i < linha; i++) {
-			mapa1 += instancias.get(index++)+"\n";
+			linha = Integer.parseInt(partes[0]);
+			coluna = Integer.parseInt(partes[1]);
+			mapa1="";
+			mapa2="";
+			
+			for (int i = 0; i < linha; i++) {
+				mapa1 += instancias.get(index++)+"\n";
+			}
+			for (int i = 0; i < linha; i++) {
+				mapa2 += instancias.get(index++)+"\n";
+			}
+			return true;
 		}
-		for (int i = 0; i < linha; i++) {
-			mapa2 += instancias.get(index++)+"\n";
-		}
-
-
+		return false;
 	}
 }
 

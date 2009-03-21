@@ -106,6 +106,68 @@ public class TesteLeituraDeArquivo {
 
 
 	}
+	
+	@Test
+	public void testeLeituraMapaComTresInstancias() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste4"));
+		assertEquals(3, explorador.getNumeroInstancias());
+
+		explorador.next();
+		
+		String mapa = ".\n";
+
+		assertEquals(1, explorador.getLinha());
+		assertEquals(1, explorador.getColuna());
+
+		assertEquals(mapa, explorador.getMapa1());
+		assertEquals(mapa, explorador.getMapa2());
+		
+		explorador.next();
+		mapa = "..\n"+
+			   "..\n";
+			   
+		
+		assertEquals(2, explorador.getLinha());
+		assertEquals(2, explorador.getColuna());
+
+		assertEquals(mapa, explorador.getMapa1());
+		assertEquals(mapa, explorador.getMapa2());
+		
+		explorador.next();
+		mapa = "...\n"+
+			   "...\n"+
+			   "...\n";
+			   
+		
+		assertEquals(3, explorador.getLinha());
+		assertEquals(3, explorador.getColuna());
+
+		assertEquals(mapa, explorador.getMapa1());
+		assertEquals(mapa, explorador.getMapa2());
+	}
+	
+	@Test
+	public void testeLeituraMapaComNextInvalido() throws IOException {
+		Explorador explorador = new Explorador();
+				
+		assertTrue(explorador.lerArquivo("mapaTeste1"));
+		assertEquals(1, explorador.getNumeroInstancias());
+
+		explorador.next();
+		
+		String mapa = ".\n";
+
+		assertEquals(1, explorador.getLinha());
+		assertEquals(1, explorador.getColuna());
+
+		assertEquals(mapa, explorador.getMapa1());
+		assertEquals(mapa, explorador.getMapa2());
+		
+		assertTrue(explorador.next() == false);
+		
+	}
 }
 
 
