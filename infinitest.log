@@ -1,0 +1,1274 @@
+21/03/2009 13:30:41 java.util.logging.LogManager$RootLogger log
+INFO: Logging at level INFO
+21/03/2009 13:30:41 java.util.logging.LogManager$RootLogger log
+INFO: Detected class directory: /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin
+21/03/2009 13:30:41 java.util.logging.LogManager$RootLogger log
+INFO: Starting Infinitest with: Classpath :[/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin:/home/victor/Aplicativos/eclipse/plugins/org.junit4_4.3.1/junit.jar:/home/victor/Documentos/Libs/infinitest.jar:/home/victor/Documentos/Libs/dojoCounter-0.3.jar]  Class Directories: [[/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin]]
+21/03/2009 13:30:41 java.util.logging.LogManager$RootLogger log
+WARNING: Filter file infinitest.filters does not exist
+21/03/2009 13:30:46 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLocomocaoMapasIguaisComObstaculos.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLocomocaoMapasIguaisSemObstaculos.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Contador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraMapa.class]
+21/03/2009 13:30:46 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 13:30:46 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:30:48 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:30:48 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:42:48 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 13:46:15 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 13:46:15 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 13:46:15 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:46:16 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:46:16 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:52:15 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 13:52:15 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 13:52:15 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:52:16 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:52:16 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:53:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 13:53:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 13:53:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:53:05 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:53:05 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:56:46 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 13:56:46 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 13:56:46 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:56:47 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:56:47 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:57:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 13:57:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 13:57:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:57:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:57:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:57:36 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 13:57:36 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 13:57:36 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:57:37 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:57:37 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:57:52 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 13:57:52 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 13:57:52 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:57:53 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:57:53 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:58:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 13:58:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 13:58:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:58:05 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:58:05 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:58:28 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 13:58:28 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 13:58:28 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:58:30 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:58:30 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 13:58:34 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 13:58:34 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 13:58:34 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 13:58:36 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 13:58:36 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:02:01 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Persistence/Persist.class]
+21/03/2009 14:02:21 java.util.logging.LogManager$RootLogger log
+INFO: Files removed. Reloading
+21/03/2009 14:02:21 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLocomocaoMapasIguaisComObstaculos.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLocomocaoMapasIguaisSemObstaculos.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Contador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraMapa.class]
+21/03/2009 14:02:21 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:02:21 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:02:23 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:02:23 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:03:07 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:03:07 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:03:07 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:03:09 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:03:09 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:03:30 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:03:30 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:03:30 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:03:32 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:03:32 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:04:07 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:04:07 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:04:07 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:04:09 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:04:09 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:11:40 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:11:40 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:11:40 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:11:41 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:11:41 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:11:52 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:11:52 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:11:52 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:11:54 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:11:54 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:12:04 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:12:04 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:12:04 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:12:06 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:12:06 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:12:10 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:12:10 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:12:10 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:12:12 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:12:12 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:13:10 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:13:10 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:13:10 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:13:11 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:13:11 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:14:06 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:14:06 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:14:06 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:14:08 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:14:08 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:14:19 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:14:19 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:14:19 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:14:21 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:14:21 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:14:34 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:14:34 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:14:34 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:14:35 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:14:35 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:14:52 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:14:52 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:14:52 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:14:53 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:14:53 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:15:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:15:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:15:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:15:34 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:15:34 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:16:07 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:16:07 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:16:07 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:16:09 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:16:09 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:17:01 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:17:01 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:17:01 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:17:03 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:17:03 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:18:39 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:18:39 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:18:39 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:18:41 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:18:41 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:19:54 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:19:54 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:19:54 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:19:55 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:19:55 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:19:56 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:19:56 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:19:58 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:19:58 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:20:01 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:20:01 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:20:01 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:20:03 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:20:03 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:20:54 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:20:54 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:20:54 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:20:56 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:20:56 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:20:57 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:20:57 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:20:57 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:20:59 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:20:59 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:21:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:21:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:21:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:21:34 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:21:34 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:21:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:21:42 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:21:42 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:21:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:21:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:21:49 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:21:49 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:21:49 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:21:51 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:21:51 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:21:55 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:21:55 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:21:55 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:21:57 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:21:57 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:22:13 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:22:13 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:22:13 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:22:14 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:22:14 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:23:00 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:23:00 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:23:00 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:23:02 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:23:02 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:23:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:23:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:23:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:23:24 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:23:24 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:23:45 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:23:45 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:23:45 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:23:47 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:23:47 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:23:52 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:23:52 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:23:52 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:23:54 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:23:55 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:24:07 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:24:07 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:24:07 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:24:10 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:24:10 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:24:30 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:24:30 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:24:30 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:24:31 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:24:31 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:24:45 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:24:45 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:24:45 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:24:47 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:24:47 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:24:57 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:24:57 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:24:57 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:24:59 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:24:59 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:25:35 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:25:35 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:25:48 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:25:48 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:25:48 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:25:50 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:25:50 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:25:51 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:25:51 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:25:51 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:25:53 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:25:53 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:26:16 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:26:16 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:26:16 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:26:18 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:26:18 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:26:34 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:26:34 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:26:34 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:26:35 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:26:35 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:27:04 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:27:04 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:27:04 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:27:05 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:27:05 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:27:27 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:27:27 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:27:27 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:27:28 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:27:28 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:27:48 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:27:48 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:27:48 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:27:50 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:27:50 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:28:28 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:28:28 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:28:28 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:28:30 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:28:30 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:29:12 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:29:12 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:29:12 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:29:13 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:29:13 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:29:25 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:29:25 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:29:25 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:29:27 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:29:27 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:31:57 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:31:57 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:31:57 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:31:59 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:31:59 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:32:01 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:32:01 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:32:01 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:32:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:32:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:33:31 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:33:31 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:33:31 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:33:38 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:33:38 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:34:31 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:34:31 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:34:31 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:34:34 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:34:34 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:34:48 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:34:48 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:34:48 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:34:50 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:34:50 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:35:01 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:35:01 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:35:01 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:35:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:35:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:35:06 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:35:06 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:35:06 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:35:08 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:35:08 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:35:39 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:35:39 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:35:39 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:35:40 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:35:40 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:36:46 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:36:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:36:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:36:49 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:36:49 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:37:27 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:37:27 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:37:27 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:37:30 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:37:30 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:40:47 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:40:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:40:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:40:48 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:40:48 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:41:21 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:41:21 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:41:21 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:41:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:41:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:41:48 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:41:48 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:41:48 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:41:49 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:41:49 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:43:45 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:43:45 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:43:45 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:43:46 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:43:46 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:44:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:44:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:44:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:44:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:44:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:44:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:44:42 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:44:42 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:44:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:44:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:46:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:46:42 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:46:42 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:46:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:46:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:48:05 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:48:05 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:48:05 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:48:06 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:48:06 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:48:30 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:48:30 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:48:30 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:48:31 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:48:31 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:48:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:48:42 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:48:42 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:48:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:48:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:51:38 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:51:38 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:51:38 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:51:39 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:51:39 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:53:29 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 14:53:29 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 14:53:29 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:53:30 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:53:30 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 14:56:44 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 14:56:44 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 14:56:44 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 14:56:46 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 14:56:46 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:01:39 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:01:39 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:01:39 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:01:41 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:01:41 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:07:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:07:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:07:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:07:34 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:07:34 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:08:12 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:08:12 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:08:12 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:08:14 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:08:14 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:08:20 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:08:20 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:08:20 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:08:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:08:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:08:24 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:08:24 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:08:24 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:08:27 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:08:27 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:08:27 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:08:27 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:08:27 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:08:29 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:08:29 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:10:57 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:10:57 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:10:57 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:10:59 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:10:59 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:11:26 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:11:26 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:11:26 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:11:28 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:11:28 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:12:38 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:12:38 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:12:38 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:12:40 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:12:40 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:12:44 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:12:44 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:12:44 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:12:46 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:12:46 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:14:59 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:14:59 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:14:59 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:15:01 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:15:01 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:17:15 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:17:15 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:17:15 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:17:17 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:17:17 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:20:18 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:20:18 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:20:18 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:20:21 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:20:21 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:20:57 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:20:57 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:20:57 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:21:00 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:21:00 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:21:59 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:21:59 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:21:59 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:22:00 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:22:00 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:23:26 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:23:26 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:23:26 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:23:27 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:23:27 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:23:47 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:23:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:23:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:23:48 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:23:48 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:24:21 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:24:21 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:24:21 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:24:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:24:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:24:26 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:24:26 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:24:26 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:24:27 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:24:27 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:25:06 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:25:06 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:25:06 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:25:08 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:25:08 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:25:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:25:35 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:25:35 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:26:00 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:26:00 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:26:00 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:26:02 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:26:02 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:26:24 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:26:24 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:26:24 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:26:26 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:26:26 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:26:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:26:42 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:26:42 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:26:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:26:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:26:50 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:26:50 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:26:50 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:26:52 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:26:52 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:26:57 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:26:57 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:26:57 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:27:00 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:27:00 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:27:39 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:27:39 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:27:39 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:27:41 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:27:41 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:28:35 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:28:35 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:28:35 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:28:36 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:28:36 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:29:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:30:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:30:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:30:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:30:34 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:30:34 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:31:44 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:31:44 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:31:44 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:31:45 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:31:45 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:34:59 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:34:59 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:34:59 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:35:00 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:35:00 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:36:05 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class, /home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:36:05 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteIntegracao, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:36:05 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:36:07 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:36:07 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:36:48 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:36:48 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:36:48 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:36:50 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:36:50 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:37:12 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:37:12 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:37:12 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:37:14 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:37:14 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:39:47 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:39:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:39:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:39:48 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:39:48 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:40:38 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:40:38 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:40:38 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:40:39 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:40:39 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:41:44 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:41:44 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:41:44 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:41:46 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:41:46 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:41:53 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteLeituraDeArquivo.class]
+21/03/2009 15:41:53 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLeituraDeArquivo]
+21/03/2009 15:41:53 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:41:54 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:41:54 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:43:39 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:43:39 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:43:40 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:43:41 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:43:41 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:45:59 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:45:59 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:45:59 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:46:00 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:46:00 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:46:32 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:46:32 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:46:32 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:46:33 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:46:33 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:50:11 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:50:11 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteIntegracao, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:50:11 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:50:13 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:50:13 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:50:26 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:50:26 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteIntegracao, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:50:26 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:50:28 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:50:28 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:50:46 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:50:46 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteIntegracao, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:50:46 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:50:48 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:50:48 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:50:53 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/Explorador.class]
+21/03/2009 15:50:53 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteLocomocaoMapasIguaisComObstaculos, br.dojo.robosExploradores.TesteIntegracao, br.dojo.robosExploradores.TesteLocomocaoMapasIguaisSemObstaculos, br.dojo.robosExploradores.TesteLeituraDeArquivo, br.dojo.robosExploradores.TesteLeituraMapa]
+21/03/2009 15:50:53 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:50:55 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:50:55 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+21/03/2009 15:51:17 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [/home/victor/Documentos/Projetos/GitProjects/RoboExploradores/dojo-brasilia-robosexploradores/bin/br/dojo/robosExploradores/TesteIntegracao.class]
+21/03/2009 15:51:17 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.robosExploradores.TesteIntegracao]
+21/03/2009 15:51:17 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+21/03/2009 15:51:18 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+21/03/2009 15:51:18 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
